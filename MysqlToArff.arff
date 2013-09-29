@@ -1,0 +1,9 @@
+@relation testTable3
+
+@attribute poop string
+@attribute c1 numberic
+@attribute c2 string
+@attribute c3 numberic
+
+@data
+poop,123,2,984747
